@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomDice</string>
+    <string name="buttonRoll">Roll</string>
+    <string name="imgDice">Dice</string>
+</resources>
